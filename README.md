@@ -2,6 +2,13 @@
 
 > **CLI Tool for ECDSA X.509 Certificate & Private Key Generation**
 
+<p align="center">
+  <a href="https://golang.org"><img src="https://img.shields.io/badge/Language-Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go"></a>
+  <a href="#"><img src="https://img.shields.io/badge/CLI-Tool-blue?style=flat-square" alt="CLI"></a>
+  <a href="#"><img src="https://img.shields.io/badge/TLS%2FSSL-X.509-green?style=flat-square&logo=letsencrypt&logoColor=white" alt="TLS/X509"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Security-Cryptography-orange?style=flat-square&logo=security&logoColor=white" alt="Security"></a>
+  <a href="#"><img src="https://img.shields.io/badge/DevOps-Tools-yellow?style=flat-square&logo=devops&logoColor=white" alt="DevOps"></a>
+</p>
 ---
 
 ### ⌂৻ Overview
