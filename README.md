@@ -95,7 +95,7 @@ dipiessl \
 ---
 
 ### ▨ Screenshot
-[screenshot](image.png)
+![screenshot](image.png)
 
 ---
 
