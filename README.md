@@ -33,15 +33,6 @@
 
 #### ⨆ Installation
 
-**Option 1: Via `go install` (Fastest method)**
-
-```bash
-go install github.com/your-username/dipiessl@latest
-
-```
-
-**Option 2: Build from Source**
-
 ```bash
 # Clone repository
 git clone https://github.com/your-username/dipiessl.git
@@ -100,6 +91,11 @@ dipiessl \
 * **`createKey()`** ✕ ECDSA private key generation matching NIST curves.
 * **`createX509Certificate()`** ⁊ X.509 certificate structure creation with SANs support and `KeyUsage` constraints.
 * **`saveAndKeyToPEM()`** ৻ Writing PEM-encoded `CERTIFICATE` and `EC PRIVATE KEY` blocks directly to disk.
+
+---
+
+### ▨ Screenshot
+[screenshot](image.png)
 
 ---
 
