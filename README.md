@@ -35,7 +35,7 @@
 
 ```bash
 # Clone repository
-git clone https://github.com/your-username/dipiessl.git
+git clone https://github.com/StarsMage/DipeSSL.git
 cd dipiessl
 
 # Build binary
@@ -95,7 +95,7 @@ dipiessl \
 ---
 
 ### ▨ Screenshot
-![screenshot](image.png)
+![screenshot](screen.png)
 
 ---
 
